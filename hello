@@ -1,0 +1,2 @@
+dofile("lib/hello.lua")
+hello.world()
