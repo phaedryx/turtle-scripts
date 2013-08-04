@@ -1,1 +1,15 @@
--- A lua-style readme
+--[[
+A collections of scripts for use with
+turtles found in the ComputerCraft mod
+for Minecraft.
+
+Minecraft:
+http://minecraft.net/
+
+Computercraft:
+http://www.computercraft.info/
+
+Source Repo:
+https://github.com/phaedryx/turtle-scripts
+--]]
+
