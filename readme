@@ -15,5 +15,17 @@ https://github.com/phaedryx/turtle-scripts
 Sample Session
 ==============
 
---]]
+TurtleOS 1.5
+> lua
+Interactive Lua prompt.
+Call exit() to exit.
+lua> dofile("lib/hello.lua")
+lua> hello.api()
 
+world() prints "Hello World!"
+
+lua> hello.world()
+Hello World!
+lua>
+
+--]]
